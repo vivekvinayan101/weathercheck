@@ -23,10 +23,10 @@ function dispayData(destinationDetails){
   </div>
   <div class="col-lg-6 col-md-6 col-sm-12  mt-2  pt-5 container text-center >
     <ul class="list-group list-group-flush container text-center" style="">
-      <li class="list-group-item container  text-center" style="  color:white "><img src="./icons8-wind-50.png" alt=""> Wind : ${wind}km/hr</li><br>
-      <li class="list-group-item container  text-center" style=" color:white  "><img src="./icons8-eye-50.png" alt=""> Visibility:  ${visibility}</li><br>
-      <li class="list-group-item container  text-center" style=" color:white  "><img src="./icons8-wet-50.png" alt=""> Humidity : ${humidity}</li><br>
-      <li class="list-group-item container  text-center" style=" color:white "><img src="./icons8-pressure-50.png" alt=""> Pressure : ${pressure}</li><br>
+      <li class="list-group-item container  text-center" style="  color:white "><img src="./icons8-wind-50.png" alt=""> Wind : ${wind}km/hr</li>
+      <li class="list-group-item container  text-center" style=" color:white  "><img src="./icons8-eye-50.png" alt=""> Visibility:  ${visibility}</li>
+      <li class="list-group-item container  text-center" style=" color:white  "><img src="./icons8-wet-50.png" alt=""> Humidity : ${humidity}</li>
+      <li class="list-group-item container  text-center" style=" color:white "><img src="./icons8-pressure-50.png" alt=""> Pressure : ${pressure}</li>
     </ul>
   </div>
 </div>`
